@@ -1,0 +1,2 @@
+Link to deployed contract onn Goerli Testnet:
+https://goerli.etherscan.io/tx/0xfc392ca6939427768b46e8485bf2bb5cdfae6c4e889d46ee167cf1813647a2a7
